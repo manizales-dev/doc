@@ -1,5 +1,5 @@
 # Misión y Visión
-Con el ánimo de construir un cluster regional de talento y programadores de sistemas, se pretende identificar, cultivar y gestionar talento humano en el campo de las TI en Manizales y el Eje Cafetero. Se pretende vincular la comunidad de talento regional, con otras comunidades a nivel global que tienen intereses afines en cuanto a la búsqueda e integración de conocimiento y recursos de programación y tecnología.
+Con el ánimo de aprender y generar contenido TI en un cluster regional de profesionales, desarrolladores de sistemas, y demás actores, se pretende identificar, cultivar y gestionar talento humano en el campo de las TI en Manizales y el Eje Cafetero. Se pretende vincular la comunidad de desarrolladores regional, con otras comunidades a nivel global que tienen intereses afines en cuanto a la búsqueda e integración de conocimiento y recursos de programación y tecnología.
 
 
 # Objetivos
